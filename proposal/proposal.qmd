@@ -85,6 +85,10 @@ To answer this question, we will conduct research about existing RFID applicatio
 
 Similarly to the question above, we will compare and contract RFID and NFC capabilities by using manufacturer datasheets and distributor websites.
 
+## Attribution
+
+All members contributed equally.
+
 ## References
 
 
