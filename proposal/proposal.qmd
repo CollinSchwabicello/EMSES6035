@@ -50,6 +50,15 @@ While the total market size for this subset is hard to estimate as well as the m
 
 Currently the market does have a decent amount of competitors for the wearables market. Big name brands such as Walmart sell basic RFID programmable rings and individual sellers on online marketplaces such as Etsy and Amazon sell their own versions. While a website known as Dangerous Things sells both a limited amount of wearables and implantables. The current revenues of these products are unknown and need to be researched further.
 
+| Alternative             | Description                                                 | Technology Type |
+|-------------------------|-------------------------------------------------------------|-----------------|
+| QR codes                | 2D optical codes scanned by camera-enabled devices          | Optical         |
+| Barcodes                | Linear visual codes read by laser scanners                  | Optical         |
+| Bluetooth Low Energy    | Short-range wireless for device-to-device communication     | Wireless Radio  |
+| GPS tracking            | Satellite-based geolocation for movement and location data  | Satellite       |
+| Near Field Communication (NFC) | Short-range communication for contactless payments   | Wireless Radio  |
+| Ultra-wide Band (UWB)   | High-precision short-range radio for spatial awareness      | Wireless Radio  |
+
 # Product Attributes & Research Questions
 
 After careful consideration, we have decided to explore the relationships between these key attributes: Price, wearable or implantable, location, size, supporting technology, storage, and security. Table 1 below shows these key attributes and major current competitors.
@@ -84,6 +93,10 @@ To answer this question, we will conduct research about existing RFID applicatio
 **3. Does NFC (Near Field Communication) offer significant advantages or disadvantages over RFID?**
 
 Similarly to the question above, we will compare and contract RFID and NFC capabilities by using manufacturer datasheets and distributor websites.
+
+## Attribution
+
+All team members contributed equally.
 
 ## References
 
