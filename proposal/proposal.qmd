@@ -70,6 +70,10 @@ This links specifically to our “Wearable vs Implantable” attribute, but also
 
 This question links to security, storage, and price. As encryption of data becomes more complicated, the security of that data increases. At the same time, as that complexity increases, so does the amount of space that the data takes up through padding. Additionally, added complexity in encryption will also increase the cost of the final product.
 
+**3. In which contexts (payment, ID, transport, medical) are customers most willing to adopt RFID technology?**
+
+This question links to security, storage, and price. As encryption of data becomes more complicated, the security of that data increases. At the same time, as that complexity increases, so does the amount of space that the data takes up through padding. Additionally, added complexity in encryption will also increase the cost of the final product.
+
 
 # Other Questions
 
